@@ -1,2 +1,2 @@
-user: admin
-pwd: adminpassword
+user: test
+pwd: abc123
